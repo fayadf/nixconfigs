@@ -1,1 +1,1 @@
-Configurations for nixos machines
+## Host configurations for nixos machines
